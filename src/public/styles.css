@@ -1,0 +1,65 @@
+.Features-Main{
+    margin: 2rem 2rem 2rem 2rem;
+    background-color: white;
+    padding: 2rem;
+}
+
+.heading-Features{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding: 4rem;
+    
+}
+
+.Feature-Card-Box {
+    background-color: aliceblue;
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    border-radius: 25px;
+    margin: 0 0 3rem 3rem;
+}
+
+.Feature-Card-Image{
+    width: 17rem;
+    height: 17rem;
+    border-radius: 5%;
+}
+
+.Feature-Card{
+    padding: 1rem 5rem 0rem;
+}
+
+.Footer-Main{
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: black;
+    
+    text-align: left;
+    margin-bottom: 0;
+    padding: 0.5rem 4rem;
+}
+
+.Footer-Sub-Heading{
+    margin-bottom: 0;
+    font-size: small;
+}
+
+.Footer-heading{
+    font-size: 1.2rem;
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+}
+
+.Footer-Sub-Div{
+    display: flex;
+}
+
+.HEX-CODERS{
+    color: #76a6f5;
+}
